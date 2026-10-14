@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "78d9a4fa5597be0f534d8805",
+  "owner": "pusrrxun",
+  "repo": "page-1895046ea9b5616c0d5e3915",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1895046ea9b5616c0d5e3915",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e4b6551de084a38267e367b7536dba44bd54350330bece1bd2d4e94b15c557b3",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享为您提供专业X机场VPN加速服务，高速稳定网络加速，客户端下载与机场订阅一站式解决。享受流畅全球内容体验。",
+          "AI_DESCRIPTION": "小火箭分享为您提供专业X机场VPN加速服务，高速稳定网络加速，客户端下载与机场订阅一站式解决。享受流畅全球内容体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deep-blue: #0a1428;\n            --cyan: #00d4ff;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--deep-blue);\n            color: #e0e0e0;\n            line-height: 1.6;\n            max-width: 1280px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        header {\n            background: rgba(10,20,40,0.95);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n            padding: 1rem 0;\n        }\n        .nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1280px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--cyan);\n            text-decoration: none;\n        }\n        nav a {\n            color: #e0e0e0;\n            text-decoration: none;\n            margin-left: 2rem;\n            font-size: 1rem;\n        }\n        main {\n            padding: 2rem 0;\n        }\n        h1 {\n            font-size: 2.5rem;\n            text-align: center;\n            margin-bottom: 2rem;\n            color: #fff;\n        }\n        .hero {\n            background: linear-gradient(135deg, #0a1428 0%, #1e3a5f 100%);\n            padding: 4rem 2rem;\n            text-align: center;\n            border-radius: 16px;\n            margin-bottom: 3rem;\n        }\n        .hero h2 {\n            font-size: 2.2rem;\n            margin-bottom: 1rem;\n        }\n        .btn {\n            display: inline-block;\n            background: var(--cyan);\n            color: #0a1428;\n            padding: 14px 32px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            margin: 1rem 0;\n            transition: all 0.3s;\n        }\n        .btn:hover {\n            transform: translateY(-3px);\n            box-shadow: 0 10px 20px rgba(0,212,255,0.3);\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 2rem;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .plan {\n            background: #13204a;\n            border-radius: 12px;\n            padding: 2rem;\n            border: 3px solid #00d4ff;\n            position: relative;\n        }\n        .plan.featured {\n            border-color: #00d4ff;\n            transform: scale(1.05);\n        }\n        .plan h3 {\n            font-size: 1.5rem;\n            color: var(--cyan);\n            margin-bottom: 1rem;\n        }\n        .price {\n            font-size: 2.2rem;\n            font-weight: 700;\n            color: #fff;\n            margin: 1rem 0;\n        }\n        .annual {\n            color: #00d4ff;\n            font-size: 1.1rem;\n        }\n        .features {\n            list-style: none;\n        }\n        .features li {\n            padding: 8px 0;\n            display: flex;\n            align-items: center;\n        }\n        .features li:before {\n            content: \"✓\";\n            color: var(--cyan);\n            margin-right: 10px;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 2rem;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .step {\n            display: flex;\n            gap: 2rem;\n            align-items: flex-start;\n        }\n        .step-number {\n            background: var(--cyan);\n            color: #0a1428;\n            width: 60px;\n            height: 60px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: 700;\n            flex-shrink: 0;\n        }\n        .faq {\n            max-width: 900px;\n            margin: 0 auto;\n        }\n        details {\n            background: #13204a;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary:after {\n            content: \"+\";\n            position: absolute;\n            right: 1.5rem;\n            font-size: 1.5rem;\n            transition: transform 0.3s;\n        }\n        details[open] summary:after {\n            transform: rotate(45deg);\n        }\n        .answer {\n            padding: 1.5rem;\n            border-top: 1px solid #00d4ff22;\n        }\n        footer {\n            background: #0a1428;\n            padding: 3rem 0;\n            text-align: center;\n            margin-top: 4rem;\n        }\n        .download {\n            background: var(--cyan);\n            color: #0a1428;\n            padding: 12px 24px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-block;\n            margin: 1rem;\n        }\n    </style>\n\n\n    <header>\n        <div class=\"nav\">\n            <a href=\"#\" class=\"logo\">小火箭分享</a>\n            <nav>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#steps\">如何使用</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#download\" class=\"btn\">立即下载</a>\n            </nav>\n        </div>\n    </header>\n    <main>\n        <div class=\"hero\">\n            <h1>小火箭分享 - X 机场 VPN 加速器</h1>\n            <p>专业机场订阅与客户端下载平台，提供稳定高速VPN加速服务，解锁全球流媒体与游戏节点。</p>\n            <a href=\"#download\" class=\"btn\">立即下载客户端</a>\n        </div>\n\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭分享是专注于X机场VPN服务的专业平台，我们为您提供高速稳定的网络加速方案，帮助用户畅享全球内容与低延迟游戏体验。所有线路均经过严格优化，保障99.9%稳定性。</p>\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <ul>\n                <li>海外流媒体解锁（Netflix、YouTube、Disney+）</li>\n                <li>游戏加速（FPS、MOBA低延迟节点）</li>\n                <li>日常科学上网与隐私保护</li>\n                <li>企业远程办公与团队协作</li>\n            </ul>\n        </section>\n\n        <section id=\"plans\">\n            <h2>订阅套餐</h2>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"steps\">\n            <h2>如何开始使用</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-number\">01</div>\n                    <div>\n                        <h3>选择套餐</h3>\n                        <p>根据需求选择适合的基础版、旗舰版或团队版</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">02</div>\n                    <div>\n                        <h3>安全支付</h3>\n                        <p>支持微信、支付宝及银行卡在线支付</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">03</div>\n                    <div>\n                        <h3>下载客户端</h3>\n                        <p>通过官网下载官方客户端或浏览器插件</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">04</div>\n                    <div>\n                        <h3>连接节点</h3>\n                        <p>一键选择节点并享受高速加速</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是 X 机场？</summary>\n                <div class=\"answer\">X 机场是专业网络加速服务商，提供高速稳定的 VPN 线路，支持全球流媒体解锁与游戏优化。</div>\n            </details>\n            <details>\n                <summary>小火箭分享如何订阅？</summary>\n                <div class=\"answer\">登录官网，选择套餐后完成在线支付，即刻获得激活码并下载客户端。</div>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <div class=\"answer\">所有流量按月度累计计算，超出部分将自动限速。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"answer\">基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。</div>\n            </details>\n            <details>\n                <summary>如何解锁 Netflix？</summary>\n                <div class=\"answer\">旗舰版及以上套餐可原生解锁 Netflix 及 Disney+，普通线路支持基础解锁。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer id=\"download\">\n        <h2>立即下载客户端</h2>\n        <a href=\"#\" class=\"download\">Windows 客户端</a>\n        <a href=\"#\" class=\"download\">Mac 客户端</a>\n        <a href=\"#\" class=\"download\">iOS/Android 客户端</a>\n        <p>官网：https://xiaorocket.com</p>\n    </footer>\n\n",
+          "hash": "142a5fc954f82c030676b16cda89acbd24857a24f4160bba9ec7d080678a2df8",
+          "seo": {
+            "title": "小火箭分享 - X 机场 VPN 加速器 客户端下载 官网",
+            "keywords": "小火箭分享, X机场, VPN加速器, 机场订阅, 客户端下载, VPN节点, 流媒体解锁, 游戏加速",
+            "description": "小火箭分享为您提供专业X机场VPN加速服务，高速稳定网络加速，客户端下载与机场订阅一站式解决。享受流畅全球内容体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "634172.cn",
+    "host": "p-bfb75bbba9.634172.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1fd2c29fd55823bed4f5c13d16003cfae7874e89b4e10d0af1ca2c503718f5c8",
+    "sitemap.xml": "9b7ca4ab5315861c008610ae844b4714e780c14ade4d7bd7c80367df97c8a4f6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5090faaea5fafe71d421271a72920ddfb4bec9e22e2c8b87e4e30262af990973",
+    "robots.txt": "c025ddca53f934fdbcb470c9d0511488124b9da75db66ef59d4179597762cb9d",
+    "587438f6b15aa6bfeadf694418f4f03f.txt": "3e377f66564fc4addee39af17eecd7723278b86f151a927b276fc5a0a51df074"
+  },
+  "revision": "bfe46dc379f63adc4301e23f7220cb43ad2f1e62e18272a396560b7084381ff3"
+}
